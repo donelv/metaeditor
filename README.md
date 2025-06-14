@@ -14,7 +14,7 @@
 
 Прототип доступен по ссылке:
 
-👉 [https://donelv.github.io/metaeditor](https://donelv.github.io/metaeditor)
+👉 <a href="https://donelv.github.io/metaeditor" target="_blank">https://donelv.github.io/metaeditor</a>
 
 ## 🛠️ Установка и запуск
 
